@@ -1,0 +1,2 @@
+/Users/Obi/Documents/Projects/Crypto Trade Engine C++/build/CMakeFiles/edit_cache.dir
+/Users/Obi/Documents/Projects/Crypto Trade Engine C++/build/CMakeFiles/rebuild_cache.dir
