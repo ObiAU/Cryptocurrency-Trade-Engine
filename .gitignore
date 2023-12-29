@@ -2,4 +2,8 @@
 
 CMakeLists.txt
 
-*.dSYM/
+topic3.dSYM/
+
+helloworld.dSYM/
+
+test.dSYM/
