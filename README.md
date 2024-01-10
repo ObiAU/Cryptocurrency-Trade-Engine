@@ -1,4 +1,4 @@
-# Simplified Trade Engine (C++)
+# Simulated Trade Engine (C++)
 Developed a user-friendly trade engine using C++ and the g++ compiler.
 The engine uses pre-inputted data, allowing for realistic simulation of trading environments.It includes a dummy wallet feature for users to engage in simulated trades with various cryptocurrencies and US Dollars. Users also have the flexibility to set initial trading parameters, including the quantity and types of cryptocurrencies.
 
